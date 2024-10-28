@@ -1,0 +1,1 @@
+This is the branch called "refs/heads/bad-branch-name". So its tip is referenced in .git/refs/heads/refs/heads/bad-branch-name.
