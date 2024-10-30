@@ -1,1 +1,6 @@
+from the branch "refs/heads/bad-branch-name":
+    This is the branch called "refs/heads/bad-branch-name". So its tip is referenced in .git/refs/heads/refs/heads/bad-branch-name.
+    - Okay, GitHub is rejecting the branch name when I tried to disambiguate by running `git push origin refs/heads/refs/heads/bad-branch-name:refs/heads/refs/heads/bad-branch-name` (which I did to resolve the "error: src refspec refs/heads/bad-branch-name matches more than one" that was thrown when I ran `git push -u origin refs/heads/bad-branch-name`, as I had already pushed the branch "bad-branch-name" to remote). So I will now push to another name on remote.
+
+from the branch "bad-branch-name":
 This is the branch called "bad-branch-name". So its tip is referenced in .git/refs/heads/bad-branch-name.
