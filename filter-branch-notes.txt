@@ -1,0 +1,6 @@
+what I just did was:
+git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch bigbadfile.txt" HEAD
+
+and then I ran `git pull` which said my branch (main) and origin/main have diverged and have 24 new commits and 24 new commits each
+- then it created a merge commit so now there are 25 commits to push, and I'm making another one to include this note
+
