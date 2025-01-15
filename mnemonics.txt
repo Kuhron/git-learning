@@ -1,0 +1,13 @@
+Tilde and Caret
+- e.g. HEAD~, HEAD~~, HEAD~2, HEAD^, HEAD^^, HEAD^2
+- ~ goes to your father (first parent)
+- ~n goes back down the paternal line for n generations and always goes to the first parent if there is more than one parent
+- a string of "~"s is decomposed into a string of "~1"s
+- it follows that a string of n "~"s is the same as a string of n "~1"s and the same as "~n"
+- ^ goes to your father (first parent)
+- ^n goes to the nth sibling in your father's set of siblings (assuming your father is the first of his siblings)
+- a string of "^"s is decomposed into a string of "^1"s
+- it follows that a string of n "^"s is the same as a string of n "^1"s and thus NOT the same as "^n" (but it IS the same as "~n")
+- instead, "^n" is one of your uncles while "~n" is one of your patrilineal line
+- in this metaphor, your parents are the set of your father and all his brothers
+
