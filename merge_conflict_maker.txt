@@ -1,7 +1,7 @@
 # practice for scout pattern (https://think-like-a-git.net/sections/testing-out-merges/the-scout-pattern.html)
-bbcdbfghbjklmnbpqrstbvwxyz1
-bcdbfghbjklmnbpqrstbvwxyz
-cdbfghbjklmnbpqrstbvwxyz1
+aaabbcdbfghbjklmnbpqrstbvwxyz1
+aaabcdbfghbjklmnbpqrstbvwxyz
+aaacdbfghbjklmnbpqrstbvwxyz1
 dbfghbjklmnbpqrstbvwxyz
 bfghbjklmnbpqrstbvwxyz1
 fghbjklmnbpqrstbvwxyz
