@@ -21,6 +21,3 @@ tbvwxyz4
 bvwxyz
 vwxyz4
 wxyz
-xyz4
-yz
-z4
