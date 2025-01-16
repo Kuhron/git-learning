@@ -7,7 +7,7 @@ didgeridoo
 calcite
 scarab
 raccoon
-trilobyte
+horseradish
 outro 1
 outro 2
 outro 3
