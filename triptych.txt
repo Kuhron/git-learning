@@ -1,3 +1,15 @@
+intro 1
+intro 2
+intro 3
+intro 4
+intro 5
 alligator
+calcite
 scarab
+raccoon
 trilobyte
+outro 1
+outro 2
+outro 3
+outro 4
+outro 5
