@@ -1,4 +1,3 @@
-# practice for savepoint pattern (https://think-like-a-git.net/sections/testing-out-merges/the-savepoint-pattern.html)
 aaabbcdbfghbjklmnbpqrstbvwxyz1
 aaacdbfghbjklmnbpqrstbvwxyz1
 dbfghbjklmnbpqrstbvwxyz
